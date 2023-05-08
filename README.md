@@ -9,7 +9,7 @@
 ![This is the demo page](./preview.jpg)
 
 <h2>
-<a href="https://side-project-todos.vercel.app/">
+<a href="https://try-vue3-tailwindcss-facebook-layout.vercel.app/">
  demo here
 </a>
 </h2>
