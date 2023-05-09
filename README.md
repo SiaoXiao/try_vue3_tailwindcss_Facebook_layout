@@ -17,16 +17,15 @@
 
 ## 📄 Description
 
-This project uses Vite as the build tool, Vue3 as the front-end framework, and TailwindCSS as the CSS framework to implement a basic to-do list application. Users can easily manage their to-do items through this application, such as adding, deleting, and marking them as complete.
+This project uses Vite as the build tool, Vue3 as the front-end framework, and TailwindCSS as the CSS framework to create a Facebook-like layout application. Through this project, developers can learn how to use Vue3 and TailwindCSS to quickly build web applications with a Facebook style.
 
 
 ## 📋 Project Structure
 
-1. Add to-do items: Users can enter the content of the to-do item in the input box, and press the Enter key or click the Add button to add a new to-do item.
-2. Delete to-do items: Users can click the delete button next to a to-do item to remove it from the list.
-3. Mark as complete: Users can click the checkbox in front of a to-do item to mark it as complete or incomplete.
-4. Filter to-do items: Users can choose to view all to-do items, only view incomplete to-do items, or only view completed to-do items.
-5. Clear completed items: Users can click the Clear button to remove all completed to-do items with one click.
+1. Header: Includes the Facebook logo, search bar, shortcut icons, and personal profile menu.
+2. Sidebar: Contains quick navigation links to News Feed, Friends, Groups, Pages, and more.
+3. Main Content: Displays user posts and the ability to create new posts.
+4. Right Sidebar: Includes friend requests, instant messaging list, and friend suggestions.
 
 ## 🚀 Features
 
